@@ -50,3 +50,8 @@
 		background-position: auto;
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 	}
+
+	b{
+		font-weight:bold;
+	}
+	}
