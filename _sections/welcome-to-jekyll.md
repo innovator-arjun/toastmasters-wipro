@@ -1,5 +1,5 @@
 ---
-title: Welcome to Wipro Toastmasters!
+title: Wipro Toastmasters!
 icon: fa-check
 order: 2
 ---
